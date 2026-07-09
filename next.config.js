@@ -1,0 +1,1 @@
+/** @type {import('next').NextConfig} */\nconst nextConfig = {\n  reactStrictMode: true,\n  swcMinify: true,\n  pageExtensions: ['ts', 'tsx'],\n};\n\nmodule.exports = nextConfig;\n
